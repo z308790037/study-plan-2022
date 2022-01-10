@@ -11,5 +11,5 @@
 - 5、力扣92：反转链表 ||：https://juejin.cn/post/7050120232173568007
 
 ## 01-07
-- 6、力扣92：反转链表II：https://juejin.cn/post/7050323101485105183
-- 7、力扣25. K 个一组翻转链表：https://juejin.cn/post/7050323101485105183
+- 6、leetCode: 25. K 个一组翻转链表：https://juejin.cn/post/7050323101485105183
+- 7、leetCode:61. 旋转链表：https://juejin.cn/post/7051579580607873054

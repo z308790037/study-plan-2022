@@ -12,4 +12,6 @@
 
 ## 01-07
 - 6、leetCode: 25. K 个一组翻转链表：https://juejin.cn/post/7050323101485105183
+
+## 01-10
 - 7、leetCode:61. 旋转链表：https://juejin.cn/post/7051579580607873054
